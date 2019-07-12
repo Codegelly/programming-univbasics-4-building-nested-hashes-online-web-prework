@@ -1,7 +1,5 @@
 def monopoly
-	monopoly = {
-	  :foo => {:bar => {}}
-	}
+	monopoly = {}
 
 end
 
